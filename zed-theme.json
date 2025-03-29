@@ -1,0 +1,157 @@
+{
+	"author": "Converted from VS Code One Dark Pro Monokai Darker",
+	"name": "One Dark Pro Monokai Darker Custom",
+	"themes": [
+		{
+			"name": "One Dark Pro Monokai Darker Custom",
+			"appearance": "dark",
+			"style": {
+				"background": "#121212",
+				"surface.background": "#181a1f",
+				"elevated_surface.background": "#1d1f23",
+				"border": "#181a1f",
+				"border.focused": "#528bff",
+
+				"text": "#bbbbbb",
+				"text.muted": "#9da5b4",
+				"text.accent": "#61afef",
+
+				"editor.background": "#121212",
+				"editor.foreground": "#bbbbbb",
+				"editor.cursor": "#f8f8f0",
+				"editor.selection": "#3e4451",
+				"editor.active_line.background": "#1d1f23",
+				"editor.line_number": "#495162",
+				"editor.invisible": "#484a50",
+				"editor.indent_guide": "#3b4048",
+				"editor.wrap_guide": "#484848",
+
+				"element.background": "#528bff",
+				"element.hover": "#121212",
+				"element.active": null,
+				"element.selected": "#121212",
+				"element.disabled": null,
+				"drop_target.background": null,
+				"ghost_element.background": null,
+				"ghost_element.hover": "#121212",
+				"ghost_element.active": null,
+				"ghost_element.selected": "#121212",
+				"ghost_element.disabled": null,
+
+				"scrollbar.thumb.background": "#4e566680",
+				"scrollbar.thumb.hover_background": "#5a637580",
+
+				"search.match_background": "#121212",
+
+				"status_bar.background": "#020202",
+				"title_bar.background": "#020202",
+				"title_bar.inactive_background": "#020202",
+				"toolbar.background": "#121212",
+				"tab_bar.background": "#181a1f",
+				"tab.active_background": "#121212",
+				"tab.inactive_background": "#181a1f",
+
+				"hint": "#969696ff",
+				"hint.background": "#181a1f",
+				"hint.border": null,
+				"ignored": null,
+				"ignored.background": null,
+				"ignored.border": null,
+
+				"panel.background": "#181a1f",
+				"panel.focused_border": null,
+
+				"error": "#704040",
+				"warning": "#407040",
+				"info": "#707040",
+
+				"syntax": {
+					"comment": {
+						"color": "#5c6370",
+						"font_style": "italic"
+					},
+					"boolean": {
+						"color": "#56b6c2",
+						"font_style": null,
+						"font_weight": null
+					},
+					"comment.doc": {
+						"color": "#5c6370",
+						"font_style": "italic",
+						"font_weight": null
+					},
+					"string": {
+						"color": "#e5c07b"
+					},
+					"string.escape": {
+						"color": "#56b6c2",
+						"font_style": null,
+						"font_weight": null
+					},
+					"string.regex": {
+						"color": "#e5c07b",
+						"font_style": null,
+						"font_weight": null
+					},
+					"string.special": {
+						"color": "#e5c07b",
+						"font_style": null,
+						"font_weight": null
+					},
+					"string.special.symbol": {
+						"color": "#e5c07b",
+						"font_style": null,
+						"font_weight": null
+					},
+					"constant": {
+						"color": "#29aeff"
+					},
+					"number": {
+						"color": "#c678dd"
+					},
+					"type": {
+						"color": "#61afef"
+					},
+					"keyword": {
+						"color": "#e06c75"
+					},
+					"operator": {
+						"color": "#e06c75"
+					},
+					"storage": {
+						"color": "#e06c75"
+					},
+					"class": {
+						"color": "#61afef"
+					},
+					"function": {
+						"color": "#98c379"
+					},
+					"constructor": {
+						"color": "#61afef"
+					},
+					"variable": {
+						"color": "#bbbbbb"
+					},
+					"variable.special": {
+						"color": "#e06c75"
+					},
+					"variable.function": {
+						"color": "#98c379"
+					},
+					"property": {
+						"color": "#c2c3c7"
+					},
+					"tag": {
+						"color": "#d07277ff"
+					},
+					"attribute": {
+						"color": "#98c379",
+						"font_style": null,
+						"font_weight": null
+					}
+				}
+			}
+		}
+	]
+}
